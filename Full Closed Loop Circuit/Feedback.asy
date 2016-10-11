@@ -1,0 +1,23 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal 191 75 -50 -46
+TEXT 80 6 Center 2 Feedback
+TEXT 79 25 Center 2 Circuit
+PIN -48 -16 LEFT 8
+PINATTR PinName C
+PINATTR SpiceOrder 1
+PIN -48 16 LEFT 8
+PINATTR PinName vref
+PINATTR SpiceOrder 2
+PIN -48 48 LEFT 8
+PINATTR PinName vsense
+PINATTR SpiceOrder 3
+PIN 192 16 RIGHT 8
+PINATTR PinName b
+PINATTR SpiceOrder 4
+PIN 48 -48 TOP 8
+PINATTR PinName DC5V
+PINATTR SpiceOrder 5
+PIN 144 -48 TOP 8
+PINATTR PinName DC10V
+PINATTR SpiceOrder 6
