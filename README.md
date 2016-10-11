@@ -10,3 +10,5 @@ Simulations are made with LTSpice IV. Sometimes the comparator op-amp likes to c
 Programming is done in the Arduino IDE. Nothing really fancy, honestly.
 
 MIT Open License is really just so anybody else taking the class is obligated to say it's not their work if they decide to google answers to their assignments.
+
+License has an s instead of two c's. I can't let the last commit be misspelled like that.
