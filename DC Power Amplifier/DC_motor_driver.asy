@@ -1,0 +1,23 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal 132 67 -115 -83
+TEXT 10 -6 Center 2 DC motor driver
+SYMATTR Value DC_motor_driver
+PIN -112 -48 LEFT 8
+PINATTR PinName B1
+PINATTR SpiceOrder 1
+PIN -112 32 LEFT 8
+PINATTR PinName B2
+PINATTR SpiceOrder 2
+PIN 16 -80 TOP 8
+PINATTR PinName DCsupply
+PINATTR SpiceOrder 3
+PIN 128 -48 RIGHT 8
+PINATTR PinName DC1
+PINATTR SpiceOrder 4
+PIN 128 32 RIGHT 8
+PINATTR PinName DC2
+PINATTR SpiceOrder 5
+PIN 0 64 BOTTOM 8
+PINATTR PinName DCgnd
+PINATTR SpiceOrder 6
